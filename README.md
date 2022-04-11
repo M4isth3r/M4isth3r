@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Polymer and LitElement.
+- 🌱 I’m currently learning Vue
+
+## You could find me on:
+
+- [Twitter](https://twitter.com/M4isth3r) 🐦 
+- [Linkedin](https://www.linkedin.com/in/yuriy-mraka/) 💼
+
 <!--
 **M4isth3r/M4isth3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
