@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on Polymer and LitElement.
 - 🌱 I’m currently learning Vue
-- GNU/Linux lover <3
-
-![GNU/Linux](https://github.com/M4isth3r/M4isth3r/blob/da8545a3f746874154a37c34b08277c31d9937ec/gnu_linux.jpg)
+- 🐧 GNU/Linux lover <3
 
 ## You could find me on:
 
